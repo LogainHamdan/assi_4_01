@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.white70,
                   image: DecorationImage(
                     image: NetworkImage(
-                        'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3eee43d6-154d-43dd-a1c4-5405defad044/df72ao6-aeb77044-2933-4467-af1c-d78394cfd115.png/v1/fill/w_509,h_350,q_70,strp/inner_earth_natural_landscape_1_1_by_virus_mcmlxxv_df72ao6-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlZWU0M2Q2LTE1NGQtNDNkZC1hMWM0LTU0MDVkZWZhZDA0NFwvZGY3MmFvNi1hZWI3NzA0NC0yOTMzLTQ0NjctYWYxYy1kNzgzOTRjZmQxMTUucG5nIiwiaGVpZ2h0IjoiPD04ODAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8zZWVlNDNkNi0xNTRkLTQzZGQtYTFjNC01NDA1ZGVmYWQwNDRcL3ZpcnVzLW1jbWx4eHYtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.gwRBm7Yw1X1kkvglqcab7jRT-L2exN2LKa8wBWgDRTQ'),
+                        'https://d2rd7etdn93tqb.cloudfront.net/wp-content/uploads/2022/03/spotify-playlist-cover-orange-headphones-032322.jpg'),
                   ),
                   boxShadow: [
                     BoxShadow(
